@@ -3,3 +3,8 @@ public class main{
     int b = 6;
     int c ;
 }
+
+public static void main(String[] args){
+    c = a+b;
+    
+}
